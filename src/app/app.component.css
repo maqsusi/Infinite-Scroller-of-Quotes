@@ -1,0 +1,12 @@
+blockquote > span {
+  font-size: 1.5rem;
+}
+
+blockquote > div {
+  margin-top: 2%;
+  font-size: 1.2rem;
+}
+
+blockquote {
+  margin-bottom: 5%;
+}
